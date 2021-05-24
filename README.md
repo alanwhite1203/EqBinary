@@ -29,6 +29,10 @@ t is the expiry date in years
 The risk sensitivities, especially Gamma, is very unstable under the Black-Scholes. Therefore, the better solution is to represent a binary option as a tight option spread.
 
 
-Reference:
-https://finpricing.com/lib/EqBinary.html
+References:
+
+https://finpricing.com/lib/EqAsian.html
+
+https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEjN4ETO3MTPkl0av9mY
+
 
